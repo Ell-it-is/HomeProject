@@ -1,0 +1,11 @@
+C:\Users\97lt9\RiderProjects\Odberatele\Odberatele\bin\Debug\netcoreapp3.1\Odberatele.exe
+C:\Users\97lt9\RiderProjects\Odberatele\Odberatele\bin\Debug\netcoreapp3.1\Odberatele.deps.json
+C:\Users\97lt9\RiderProjects\Odberatele\Odberatele\bin\Debug\netcoreapp3.1\Odberatele.runtimeconfig.json
+C:\Users\97lt9\RiderProjects\Odberatele\Odberatele\bin\Debug\netcoreapp3.1\Odberatele.runtimeconfig.dev.json
+C:\Users\97lt9\RiderProjects\Odberatele\Odberatele\bin\Debug\netcoreapp3.1\Odberatele.dll
+C:\Users\97lt9\RiderProjects\Odberatele\Odberatele\bin\Debug\netcoreapp3.1\Odberatele.pdb
+C:\Users\97lt9\RiderProjects\Odberatele\Odberatele\obj\Debug\netcoreapp3.1\Odberatele.csprojAssemblyReference.cache
+C:\Users\97lt9\RiderProjects\Odberatele\Odberatele\obj\Debug\netcoreapp3.1\Odberatele.AssemblyInfoInputs.cache
+C:\Users\97lt9\RiderProjects\Odberatele\Odberatele\obj\Debug\netcoreapp3.1\Odberatele.AssemblyInfo.cs
+C:\Users\97lt9\RiderProjects\Odberatele\Odberatele\obj\Debug\netcoreapp3.1\Odberatele.dll
+C:\Users\97lt9\RiderProjects\Odberatele\Odberatele\obj\Debug\netcoreapp3.1\Odberatele.pdb

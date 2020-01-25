@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Production>
+  <Items>
+    <Item type="Sleeve" date="2020-01-22">
+      <Partner>Alfa</Partner>
+      <Width>52.5</Width>
+      <Height>108</Height>
+      <Amount unit="m2">12000</Amount>
+    </Item>
+    <Item type="Etiketa" date="2020-01-23">
+      <Partner>Gama</Partner>
+      <Width>92</Width>
+      <Height>142.38</Height>
+      <Amount unit="ks">152000</Amount>
+    </Item>
+  </Items>
+</Production>
